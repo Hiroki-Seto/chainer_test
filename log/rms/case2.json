@@ -1,0 +1,6 @@
+{
+  "optimizer": "rms",
+  "lr": 1e-2,
+  "max_epoch": 2,
+  "batch_size": 128
+}
