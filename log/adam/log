@@ -1,20 +1,47 @@
 [
     {
-        "main/loss": 2.4649837017059326,
-        "main/accuracy": 0.18168558180332184,
-        "validation/main/loss": 2.0990381240844727,
-        "epoch": 1,
-        "elapsed_time": 217.109917116999,
+        "elapsed_time": 216.76061158300217,
+        "validation/main/loss": 2.1326401233673096,
         "iteration": 391,
-        "validation/main/accuracy": 0.2350672483444214
+        "epoch": 1,
+        "main/loss": 2.624492645263672,
+        "validation/main/accuracy": 0.2051028460264206,
+        "main/accuracy": 0.14174392819404602
     },
     {
-        "main/loss": 1.9273635149002075,
-        "main/accuracy": 0.241628035902977,
-        "validation/main/loss": 2.4889492988586426,
-        "epoch": 2,
-        "elapsed_time": 434.33019641699866,
+        "elapsed_time": 434.3568690450011,
+        "validation/main/loss": 2.2230327129364014,
         "iteration": 782,
-        "validation/main/accuracy": 0.17751187086105347
+        "epoch": 2,
+        "main/loss": 2.045172929763794,
+        "validation/main/accuracy": 0.17128165066242218,
+        "main/accuracy": 0.21992887556552887
+    },
+    {
+        "elapsed_time": 651.5755609549997,
+        "validation/main/loss": 1.9207857847213745,
+        "iteration": 1172,
+        "epoch": 3,
+        "main/loss": 1.9534205198287964,
+        "validation/main/accuracy": 0.26127374172210693,
+        "main/accuracy": 0.2424679547548294
+    },
+    {
+        "elapsed_time": 868.8500243529998,
+        "validation/main/loss": 2.0021257400512695,
+        "iteration": 1563,
+        "epoch": 4,
+        "main/loss": 1.9152086973190308,
+        "validation/main/accuracy": 0.2437697798013687,
+        "main/accuracy": 0.26037004590034485
+    },
+    {
+        "elapsed_time": 1085.9180753950022,
+        "validation/main/loss": 2.017651319503784,
+        "iteration": 1954,
+        "epoch": 5,
+        "main/loss": 1.8888654708862305,
+        "validation/main/accuracy": 0.22646360099315643,
+        "main/accuracy": 0.27151933312416077
     }
 ]

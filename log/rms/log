@@ -1,20 +1,47 @@
 [
     {
-        "main/accuracy": 0.1064777821302414,
-        "epoch": 1,
+        "validation/main/accuracy": 0.10096914321184158,
         "iteration": 391,
-        "main/loss": 86.78224182128906,
-        "validation/main/loss": 2.2025437355041504,
-        "validation/main/accuracy": 0.1689082235097885,
-        "elapsed_time": 216.33473836600024
+        "main/loss": 94.95806884765625,
+        "validation/main/loss": 2.3052430152893066,
+        "epoch": 1,
+        "elapsed_time": 216.8106711190012,
+        "main/accuracy": 0.10374040901660919
     },
     {
-        "main/accuracy": 0.18046675622463226,
-        "epoch": 2,
+        "validation/main/accuracy": 0.21756328642368317,
         "iteration": 782,
-        "main/loss": 2.180319309234619,
-        "validation/main/loss": 2.0134668350219727,
-        "validation/main/accuracy": 0.25632911920547485,
-        "elapsed_time": 433.397787717
+        "main/loss": 2.2543156147003174,
+        "validation/main/loss": 2.063995838165283,
+        "epoch": 2,
+        "elapsed_time": 434.4072075820004,
+        "main/accuracy": 0.14428149163722992
+    },
+    {
+        "validation/main/accuracy": 0.17138053476810455,
+        "iteration": 1172,
+        "main/loss": 2.115269660949707,
+        "validation/main/loss": 2.3123767375946045,
+        "epoch": 3,
+        "elapsed_time": 651.443216423002,
+        "main/accuracy": 0.19747595489025116
+    },
+    {
+        "validation/main/accuracy": 0.1015625,
+        "iteration": 1563,
+        "main/loss": 2.158130645751953,
+        "validation/main/loss": 2.559887647628784,
+        "epoch": 4,
+        "elapsed_time": 868.7842861380013,
+        "main/accuracy": 0.2006673663854599
+    },
+    {
+        "validation/main/accuracy": 0.20421281456947327,
+        "iteration": 1954,
+        "main/loss": 1.9728440046310425,
+        "validation/main/loss": 2.0629429817199707,
+        "epoch": 5,
+        "elapsed_time": 1085.8061481590012,
+        "main/accuracy": 0.21857017278671265
     }
 ]

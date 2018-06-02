@@ -1,20 +1,47 @@
 [
     {
-        "epoch": 1,
+        "elapsed_time": 216.79552734699973,
+        "main/loss": 2.307744264602661,
         "iteration": 391,
-        "elapsed_time": 217.06231538700013,
-        "main/loss": 2.273407459259033,
-        "main/accuracy": 0.20446372032165527,
-        "validation/main/accuracy": 0.3164556920528412,
-        "validation/main/loss": 1.8267769813537598
+        "validation/main/accuracy": 0.2795688211917877,
+        "validation/main/loss": 1.9845468997955322,
+        "epoch": 1,
+        "main/accuracy": 0.176630437374115
     },
     {
-        "epoch": 2,
+        "elapsed_time": 434.3734749219984,
+        "main/loss": 1.734322428703308,
         "iteration": 782,
-        "elapsed_time": 434.3463200949991,
-        "main/loss": 1.6174721717834473,
-        "main/accuracy": 0.3933623731136322,
-        "validation/main/accuracy": 0.4501582384109497,
-        "validation/main/loss": 1.4869065284729004
+        "validation/main/accuracy": 0.4292919337749481,
+        "validation/main/loss": 1.5201698541641235,
+        "epoch": 2,
+        "main/accuracy": 0.34404972195625305
+    },
+    {
+        "elapsed_time": 651.4406044120005,
+        "main/loss": 1.4563312530517578,
+        "iteration": 1172,
+        "validation/main/accuracy": 0.5047468543052673,
+        "validation/main/loss": 1.3312535285949707,
+        "epoch": 3,
+        "main/accuracy": 0.45877403020858765
+    },
+    {
+        "elapsed_time": 868.7789701129986,
+        "main/loss": 1.2593897581100464,
+        "iteration": 1563,
+        "validation/main/accuracy": 0.5538963675498962,
+        "validation/main/loss": 1.2547800540924072,
+        "epoch": 4,
+        "main/accuracy": 0.5388627052307129
+    },
+    {
+        "elapsed_time": 1085.9315067579992,
+        "main/loss": 1.111270546913147,
+        "iteration": 1954,
+        "validation/main/accuracy": 0.6249011158943176,
+        "validation/main/loss": 1.0459343194961548,
+        "epoch": 5,
+        "main/accuracy": 0.6004235744476318
     }
 ]
